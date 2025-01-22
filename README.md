@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Machine Learning README
+# Matchbox Computer
 
 ## Overview
 
