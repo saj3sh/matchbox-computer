@@ -50,6 +50,7 @@ pip install matplotlib
 
 4. **Visualize Performance:**
    After the training session, a plot showing the total wins, losses, and draws over time will be displayed.
+   ![alt text](https://github.com/saj3sh/matchbox-computer/blob/main/performance_over_time.png?raw=true)
 
 ## Explanation of Key Concepts
 
